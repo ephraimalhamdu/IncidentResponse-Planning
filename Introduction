@@ -1,0 +1,15 @@
+These points help reinforce the importance of having a structured incident response plan and understanding the relevant regulations and guidelines: 
+•	FISMA Requirement: The Federal Information Security Management Act (FISMA) of 2002 requires federal agencies to establish incident response capabilities,
+  including creating policies, plans, and procedures.
+•	Incident Response Lifecycle: The detection and analysis phase is crucial for identifying and prioritizing unusual activities within the network.
+•	NIST SP 800-61: This publication is titled the Computer Security Incident Handling Guide and provides guidelines for incident handling and response.
+
+These points provide a foundation for creating an effective incident response plan.
+•	Definitions: Understanding key terms like events and incidents to ensure clear communication.
+•	NIST SP 800-61 Guidance: The text covers the elements of incident response planning based on 
+  the NIST Special Publication 800-61, including policies, plans, and procedures.
+•	Plan Elements: Important components of an incident response plan such as mission, strategies, 
+  goals, management approval, communication methods, metrics, and alignment with organizational structures.
+
+I 
+
